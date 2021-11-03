@@ -165,7 +165,7 @@ button:focus {
   height: 480px;
   border-style:solid;
   border-width:5px;
-  border-color:aqua;
+  border-color:rgb(138, 12, 138);
 }
 
 .tm-slider-img,
